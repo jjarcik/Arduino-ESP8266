@@ -1,7 +1,7 @@
 # Arduino Test ESP8266 by ATM
 
 ## Wiring diagram
-<img src='https://raw.githubusercontent.com/jjarcik/Arduino-ESP8266/master/WiringDiagramEsp8266.png' />
+<img src='https://raw.githubusercontent.com/jjarcik/Arduino-ESP8266/master/WiringDiagramEsp8266.png' width=450/>
 
 ## Test
 - Run Arduino IDE
@@ -27,6 +27,6 @@ Response "Network Detail"
 Response "OK"
 ```
 
-## source
+## Source
 
 http://microcontrollerkits.blogspot.cz/2015/02/wifi-module-esp8266-at-command-test.html
