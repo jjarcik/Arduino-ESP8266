@@ -3,6 +3,9 @@
 ## Wiring diagram
 <img src='https://raw.githubusercontent.com/jjarcik/Arduino-ESP8266/master/WiringDiagramEsp8266.png' width=450/>
 
+### Best wiring
+try this: http://www.instructables.com/id/Cheap-Arduino-WiFi-Shield-With-ESP8266/?ALLSTEPS
+
 ## Test
 - Run Arduino IDE
 - Open tools / Serial monitor
